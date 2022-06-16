@@ -1,6 +1,6 @@
 # Thumbnail-downloader-PHP-Javascript-html-css
 Website that allows you to download thumbnails from youtube video link. Basically user can put a youtube video link, the website shows preview of a video thumbnail and if a
-user presses download button the thumbnail picture as jpg file gets downloaded to the user pc.
+user presses download button the thumbnail picture as jpg file gets downloaded to the users pc.
 ![image](https://user-images.githubusercontent.com/92724870/174115486-ca5b4b14-0809-4c61-a621-e94ff4258904.png)
 
 For an example lets use this video https://www.youtube.com/watch?v=a7_WFUlFS94&t=53s&ab_channel=Fireship
